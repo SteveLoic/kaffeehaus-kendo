@@ -1,0 +1,108 @@
+{
+  "coffee": [
+    {
+      "_id": "6424335b59f9f6fdd657d2e1",
+      "id": 1,
+      "name": "Hausmischung",
+      "description": "Vollmundig und reichhaltig, mit Noten von dunkler Schokolade und schwarzer Kirsche. Angebaut an den nebelverhangenen Berghängen Mittelamerikas.",
+      "price": 12.99,
+      "region": "Mittelamerika",
+      "weight": 500,
+      "flavor_profile": ["Dunkle Schokolade", "Schwarze Kirsche"],
+      "grind_option": ["Ganze Bohne", "French Press", "Filter", "Espresso"],
+      "roast_level": 3,
+      "image_url": "https://iili.io/H8Y78Qt.webp"
+    },
+    {
+      "_id": "6424338559f9f6fdd657d2e2",
+      "id": 2,
+      "name": "Goldene Morgensonne",
+      "description": "Ein sanfter und heller Kaffee mit einer zitrusartigen Note. Gewonnen von den sanften Hügeln Afrikas.",
+      "price": 10.99,
+      "region": "Afrika",
+      "weight": 500,
+      "flavor_profile": ["Zitrusfrüchte"],
+      "grind_option": ["Ganze Bohne", "French Press", "Filter", "Espresso"],
+      "roast_level": 2,
+      "image_url": "https://iili.io/H8Y7WEg.webp"
+    },
+    {
+      "_id": "6424338959f9f6fdd657d2e3",
+      "id": 3,
+      "name": "Regenwald Rhapsodie",
+      "description": "Ein erdiger und komplexer Kaffee mit Noten von gerösteten Nüssen und Karamell. Nachhaltig angebaut in den Regenwäldern Südamerikas.",
+      "price": 14.99,
+      "region": "Südamerika",
+      "weight": 500,
+      "flavor_profile": ["Zitrusfrüchte"],
+      "grind_option": ["Ganze Bohne", "French Press", "Filter", "Espresso"],
+      "roast_level": 2,
+      "image_url": "https://iili.io/H8Y7kTN.webp"
+    },
+    {
+      "_id": "6424338c59f9f6fdd657d2e4",
+      "id": 4,
+      "name": "Erntemond",
+      "description": "Eine sanfte und erdige Mischung mit Noten von Kakao und Haselnuss.",
+      "price": 9.99,
+      "region": "Mittelamerika",
+      "weight": 500,
+      "flavor_profile": ["Kakao", "Haselnuss"],
+      "grind_option": ["Ganze Bohne", "French Press", "Filter", "Espresso"],
+      "roast_level": 3,
+      "image_url": "https://iili.io/H8Y7X4a.webp"
+    },
+    {
+      "_id": "6424352d59f9f6fdd657d2e6",
+      "id": 5,
+      "name": "Wildfeuer",
+      "description": "Eine kräftige und rauchige Mischung mit Noten von dunkler Schokolade und Melasse.",
+      "price": 12.99,
+      "region": "Afrika",
+      "weight": 500,
+      "flavor_profile": ["Dunkle Schokolade", "Melasse"],
+      "grind_option": ["Ganze Bohne", "French Press", "Filter", "Espresso"],
+      "roast_level": 5,
+      "image_url": "https://iili.io/H8Y7r4s.webp"
+    },
+    {
+      "_id": "6424353059f9f6fdd657d2e7",
+      "id": 6,
+      "name": "Walnusswunder",
+      "description": "Ein sanfter und nussiger Kaffee von den Hängen Südamerikas.",
+      "price": 9.99,
+      "region": "Südamerika",
+      "weight": 500,
+      "flavor_profile": ["Nussig", "Sanft"],
+      "grind_option": ["Ganze Bohne", "French Press", "Filter", "Espresso"],
+      "roast_level": 3,
+      "image_url": "https://iili.io/H8Y7gGn.webp"
+    },
+    {
+      "_id": "6424353259f9f6fdd657d2e8",
+      "id": 7,
+      "name": "Breezy Beans",
+      "description": "Diese Mischung stammt aus Bohnen aus Honduras und Costa Rica. Leichter Röstgrad mit hellen, zitrusartigen Aromen. Ideal für Pour-Over oder Filterkaffee.",
+      "price": 11.99,
+      "region": "Mittelamerika",
+      "weight": 500,
+      "flavor_profile": ["Zitrusfrüchte"],
+      "grind_option": ["Ganze Bohne", "Filter"],
+      "roast_level": 1,
+      "image_url": "https://iili.io/H8Y7lpV.webp"
+    },
+    {
+      "_id": "6424353559f9f6fdd657d2e9",
+      "id": 8,
+      "name": "Indo-Viet Röstung",
+      "description": "Mischung aus Bohnen aus Indonesien und Vietnam. Mittel-dunkler Röstgrad, würzig und erdig, mit Noten von Zimt und Nelke. Ideal für Filter oder French Press.",
+      "price": 13.99,
+      "region": "Asien-Pazifik",
+      "weight": 500,
+      "flavor_profile": ["Würzig", "Erdig", "Zimt", "Nelke"],
+      "grind_option": ["Ganze Bohne", "Filter", "French Press"],
+      "roast_level": 4,
+      "image_url": "https://iili.io/H8Y7wYv.webp"
+    }
+  ]
+}

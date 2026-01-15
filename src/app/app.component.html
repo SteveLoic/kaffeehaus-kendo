@@ -1,0 +1,11 @@
+<kendo-appbar>
+  <kendo-appbar-section>
+    <h1>Kendo Kaffeehaus</h1>
+  </kendo-appbar-section>
+  <kendo-appbar-section>
+    <a [routerLink]="['']" [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact: true}">Startseite</a>
+    <a [routerLink]="['products']" [routerLinkActive]="['active']">Produkte</a>
+  </kendo-appbar-section>
+</kendo-appbar>
+
+<router-outlet></router-outlet>
