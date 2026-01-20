@@ -1,0 +1,14 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.json-server
+    ports:
+      - "3000:3000"
